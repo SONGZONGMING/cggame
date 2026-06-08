@@ -11,4 +11,4 @@ Debugフォルダをダウンロードして、Project1.exeをクリック
 
 # プレイ方法
 
-./CGgame.png
+(./CGgame.png)
